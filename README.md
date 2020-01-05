@@ -4,6 +4,8 @@ Day 4 of 100 Days of Exploratory Data Analysis
 ## **Content**
 This is a Data Set from UCI Machine Learning Repository which concerns housing values in suburbs of Boston.
 
+This data was originally a part of UCI Machine Learning Repository and has been removed now. We can also access this data from the scikit-learn library.
+
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. Creator: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
 
 ## **Features:**
